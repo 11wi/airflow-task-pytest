@@ -1,0 +1,8 @@
+webserver_config.py
+airflow.*
+dags/
+
+.idea/
+.pytest_cache/
+logs/
+__pycache__/
